@@ -20,7 +20,8 @@ Communication: Can only communicate when possessing other beings. See the rules 
 Senses: While possessing another being, can hear and see out to 30 ft.  
 Alignment: Chaotic neutral  
 Characteristics: As time goes on the persona of the priest grows less and less reliable to the original owner. Their voice, bonds, ideals, and flaws change overtime as it tears down, rebuilds, and borrows from others after each use. Its purpose remains steadfast no matter what.  
-Purpose: Templar of Wadet’s followers  
+Purpose: Templar of Wadet’s followers
+
 ---
 
 Sorovian Lore:  
