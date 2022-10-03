@@ -6,6 +6,7 @@ categories: media
 ---
 
 Have you ever had a kleptomaniac in the party who takes grotesque trophies from their fallen enemies? I do, and when our table’s klepto removed the face from what he thought was a witch, I decided to put a twist to it. Our klepto went a step further by attempting to turn the mask into a deep sea breathing apparatus, attaching a hose to the mouth. It didn’t work, and the second time the player tried to use it (this time in battle), they were forced to make a saving throw, which they failed. Suddenly, they didn’t have control of their character and chaos broke loose as the party was forced to face threats from within their own ranks as well as without.  
+
   
 Below is the stat block I’ve created for the item:
 
