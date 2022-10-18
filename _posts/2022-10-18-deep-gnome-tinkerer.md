@@ -3,7 +3,7 @@ title: "Deep Gnome Tinkerer"
 layout: post
 author: "Henry Felerski"
 categories: media
-—
+---
 
 
 ![deep_gnome_tinkerer](/images/deep_gnome_tinkerer.jpg)
