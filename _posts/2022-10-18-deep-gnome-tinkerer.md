@@ -7,6 +7,7 @@ categories: media
 
 ![deep_gnome_tinkerer](/landoflorecraft/images/deep_gnome_tinkerer.jpg)
 
+
 I created this stat block to add some flavor to the somewhat boring and overlooked deep gnomes. The Tinkerer may have some rock gnome blood running in them since they display a similar love for machinery. They are isolated loners, shunned by the rest of deep gnome society, neglecting their usual innate magical abilities to focus on creating fantastic devices. These Tinkerers often leave the underdark to search for new opportunities, or bend bands of their brethren to their will.
 
 
