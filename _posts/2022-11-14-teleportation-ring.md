@@ -1,5 +1,5 @@
 ---
-title: "Deep Gnome Tinkerer"
+title: "Teleportation Ring"
 layout: post
 author: "Henry Felerski"
 categories: media
