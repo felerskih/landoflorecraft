@@ -1,5 +1,5 @@
 ---
-title: ‘Goblin Rallyer"
+title: "Goblin Rallyer"
 layout: post
 author: "Henry Felerski"
 categories: media
